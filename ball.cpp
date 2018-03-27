@@ -12,7 +12,7 @@ Ball::Ball(int num)
 //    str.append(".png");
 //    //º”‘ÿÕº∆¨
 //    QPixmap pixmap;
-//    pixmap.load(str);
+//    pixmap.load(str);   
 //    pixmap= pixmap.scaled(40,40,Qt::IgnoreAspectRatio, Qt::SmoothTransformation);
 //    setPixmap(pixmap);
 }
