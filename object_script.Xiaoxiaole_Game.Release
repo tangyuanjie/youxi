@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\scene.o
+./release\scene_start.o
+./release\item.o
+./release\ball.o
+./release\map.o
+./release\moc_mainwindow.o
+./release\moc_scene.o
+./release\moc_scene_start.o
+./release\moc_item.o
+./release\moc_ball.o
+);
