@@ -12,7 +12,7 @@
 
 #include   <QGraphicsSimpleTextItem>
 
-
+  
 
 class Ball : public QObject,public QGraphicsPixmapItem
 {
